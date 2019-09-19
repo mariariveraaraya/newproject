@@ -11,9 +11,12 @@ knitr::opts_chunk$set(
 )
 ```
 # New Project
-
+#time to version ontrol
 <!-- badges: start -->
 <!-- badges: end -->
+
+This template was taken from Danielle Navarro's GitHub. In 'experiments' each technique/analysis has a 'data' folder with the raw files.
+The 'data' folder in the root should have the cleaned data which was created with the files in the 'preprocessing' folder.
 
 This is a template for a new research project. Should contains the following
 folders: [analysis](./analysis), [data](./data), [experiments](./experiments),
